@@ -22,13 +22,8 @@ Thumbs.db
 /tags
 .idea
 
-## Frontend settings ##
-/frontend_src/npm-debug.log
-/frontend_src/node_modules
-/frontend_src/.sass-cache
-
 ## Backend settings ##
-/wp/assets/debug.log
-/wp/assets/debug.log
-/wp/assets/cache
-/wp/assets/cache*
+/assets/debug.log
+/assets/debug.log
+/assets/cache
+/assets/cache*
